@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Adista - Ditinggal Lagi",
+      "slug": "Adista-Ditinggal-Lagi",
+      "body": "Kau pergi tinggalkan aku Tak pernah bilang-bilang kepadaku Kau hanya bisa sakiti perasaanku",
+      "banner": "https://images.pexels.com/photos/13442289/pexels-photo-13442289.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load"
+    },
+    {
+      "id": 2,
+      "title": "Adista - Saranghae",
+      "slug": "Adista-Saranghae",
+      "body": "Rasa sakit ini sangatlah perih Sungguh sakit, sakit, sakit ku rasa Kau buatku hancur dan tak berharap",
+      "banner": "https://images.pexels.com/photos/8253794/pexels-photo-8253794.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load"
+    },
+    {
+      "id": 3,
+      "title": "Adista - Setialah Padaku",
+      "slug": "Adista-Setialah-Padaku",
+      "body": "tiba saatnya kita kan berpisah, aku akan pergi aku pergi tuk kembali lagi, ku harap kau relakan ku pergi pergilah engkau sayang walau air mata kan menetes ku harus relakan kau pergi, jagalah cinta kita",
+      "banner": "https://images.pexels.com/photos/10011638/pexels-photo-10011638.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load"
+    },
+    {
+      "title": "Adista - Jangan Pergi",
+      "slug": "Jangan-pergi",
+      "body": "hallo teman-teman",
+      "banner": "https://images.pexels.com/photos/1287142/pexels-photo-1287142.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "id": 4
+    }
+  ]
+}
